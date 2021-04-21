@@ -10,7 +10,7 @@ let originalJsonFile = {};
 let languageIndex = 0;
 let toExport = {};
 
-console.log('hello world')
+console.log('tik')
 
 let template = ``;
 
