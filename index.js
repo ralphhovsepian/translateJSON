@@ -15,10 +15,10 @@ console.log('hello world')
 let template = ``;
 
  function trans() {
-  for(let i = 0; i < languages.length; i++) {
+  for(let i = 6; i < languages.length; i++) {
     languageIndex = i
 
-    fs.readFile('./translate.json', 'utf8', (err, json) => {
+    fs.readFile('./translahggfhte.json', 'utf8', (err, json) => {
 
         originalJsonFile = JSON.parse(json);
         toExport = JSON.parse(json);
